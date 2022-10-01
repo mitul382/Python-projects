@@ -40,3 +40,7 @@ if val_1=='L':
     print("You could not swim as here was a crocodile to eat you and we mourn for you.")
 else:
   print("There was a crocodile and that eat you and you are dead now.We mourn for you .")
+
+
+
+#gaming code
